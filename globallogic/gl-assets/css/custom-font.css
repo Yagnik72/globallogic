@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Helvetica_regular';
+    src: url('fonts/helveticaneue.woff') format('woff'), url('fonts/helveticaneue.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica_bold';
+    src: url('fonts/helvetica_neu_bold-webfont.woff2') format('woff2'), url('fonts/helvetica_neu_bold-webfont.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica_thin';
+    src: url('fonts/helveticaneue_thin-webfont.woff2') format('woff2'), url('fonts/helveticaneue_thin-webfont.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica_light';
+    src: url('fonts/helveticaneue_light-webfont.woff2') format('woff2'), url('fonts/helveticaneue_light-webfont.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica_medium';
+    src: url('fonts/helveticaneue_medium-webfont.woff2') format('woff2'), url('fonts/helveticaneue_medium-webfont.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica_sk';
+    src: url('fonts/HelveticaNeueLTPro-Lt.woff') format('woff'), url('fonts/HelveticaNeueLTPro-Lt.woff') format('woff');
+    font-display: swap;
+}
